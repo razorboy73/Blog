@@ -10,15 +10,39 @@
     padding-bottom: 100px;
 }
 
+.default-header{
+    background-image: url(img/Banner.jpg);
+    background-size: cover;
+    padding-top: 100px;
+    padding-bottom: 50px;
+
+}
+
 .header-text-holder, .subscribe-holder{
 
     text-align: center;
     color: bisque;
 }
+.default-header-text-holder{
+    color: bisque;
+}
 
-.home-body-content{
-    padding-top: 20px;
-    padding-bottom: 20px;
+.default-header-text-holder h1{
+    font-size: 2em;
+}
+.home-body-content, .default-body-content{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.default-body-content .list-group .list-group-item h3{
+    color: red;
+    font-size: 1.3em;
+
+}
+
+.default-body-content .list-group a{
+    color: fuchsia;
 }
 
 .home-body-content .my_card{
