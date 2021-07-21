@@ -32,3 +32,10 @@
 .my_card h3 {
     font-size: 1.2em;
 }
+
+footer.main-footer {
+    background-color: black;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    color: white;
+}
