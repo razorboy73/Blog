@@ -43,6 +43,7 @@
 
 .default-body-content .list-group a{
     color: black;
+    padding-top: 20px;
 }
 
 .home-body-content .my_card{
