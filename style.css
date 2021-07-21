@@ -36,13 +36,13 @@
 }
 
 .default-body-content .list-group .list-group-item h3{
-    color: red;
+    color: black;
     font-size: 1.3em;
 
 }
 
 .default-body-content .list-group a{
-    color: fuchsia;
+    color: black;
 }
 
 .home-body-content .my_card{
